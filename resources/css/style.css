@@ -1,5 +1,6 @@
 body {
   font-family: Helvetica;
+  text-align: center;
   }
 
 .background {
@@ -14,7 +15,7 @@ h1#header {
   font-weight: bold;
   color: white;
 }
-h2 {
+.h2normal {
   font-size: 32px;
   font-weight: bold;
 }
@@ -32,6 +33,7 @@ h2.background {
 }
 #footer {
   font-size: 11px;
-  color: white
+  color: white;
+  text-align: left;
   background-color: dimgray;
 }
