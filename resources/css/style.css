@@ -32,8 +32,10 @@ h2.background {
   color:white;
 }
 #footer {
-  font-size: 11px;
   color: white;
   text-align: left;
   background-color: dimgray;
+}
+.broadway {
+    font-size: 11px;
 }
