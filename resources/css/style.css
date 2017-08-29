@@ -6,11 +6,15 @@ body {
 .background {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
 }
-p#header {
+.navheader {
   font-size: 18px;
   color: white;
   }
-h1#header {
+
+.nav {
+  color: white;
+}
+.h1header {
   font-size: 70px;
   font-weight: bold;
   color: white;
